@@ -29,6 +29,40 @@ Consider discussing your answers to these questions with your Mip Mentor.
 It may be a good time to schedule a one-one section with him/her to discuss 
 and plan your training track anyway.
 
+Turano answers:
+
+1. I'm starting as a trainee in MipWise and
+I think I'll be more comfortable using my math
+knowledge on real world problems at the end of 
+this process.
+
+2. Research about optimization methods, learn
+new programming tools and discuss real world 
+problems with cool people.
+
+3. I think I'm good at abstracting daily problems
+and transforming them into math optimization 
+problems. Also,  I think I'm good at dealing
+with people. In both cases I've experienced 
+situations where I've handled the problems
+that colleagues had trouble dealing with.
+
+4. I have no idea, because many things that have
+interest to do in my free time would get boring quickly
+because I could do them every time. But, I think
+that with enough free time I would start to study 
+more about math, programming, politics and philosophy.
+Also, I would have more time to spend with friends
+and family (probably I would build more discussion groups).
+
+5. I do not have any role model, but I have
+a role group. I would like to be more the average
+of the people in the Philosophy History group that I'm in.
+I love the different perspective about: life, 
+science, nature, being human, spirituality
+and everything that they have. Learning with
+them make me feel more alive.
+
 In the meantime, click **Next** to set up your computer because soon you will be seeing analytics 
 in action!
 
