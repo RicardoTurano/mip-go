@@ -18,7 +18,8 @@ To make a meaningful change, type down your answer to the following question:
 *Without reasoning about what you think is possible and what is not,
 what would be the ideal outcome of this program for you?*
 
-> Write down our answer here
+> To be more confident on dealing with real 
+> world problems and programming software.
 
 We will come back to this later.
 
@@ -66,7 +67,8 @@ working on a new task.
 As a second task, list below a few strengths of yours that you think will help
 you to make significant contributions as an analytics professional:
 
-> List your strengths here
+> Punctuality, proactivity and I always seek for 
+> improvement.
 
 Once you are done, make another commit.
 
