@@ -48,7 +48,7 @@ I will become a respectful decision scientist.
 
 ## Emoji ##
 Just copy emojis from a website such as [Emojipedia](https://emojipedia.org/)
-and paste them here 😉.
+and paste them here 😉💀🔥.
 
 
 ## Links ##
