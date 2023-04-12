@@ -97,6 +97,6 @@ best practices.
 ---
 
 ## My notes
-Write down here your takeaways from the article and other thoughts 
-you might find useful to revisit in the future. Just remember to 
-commit and push your changes once you are done.
+Instead of always doing a generalized algorithm that will solve every problem
+we can focus on doing case to case algorithms. Developing a solution for each company may lead us to better and 
+faster solutions.
